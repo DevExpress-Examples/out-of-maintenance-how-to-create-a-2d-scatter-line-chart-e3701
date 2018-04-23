@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScatterLine", "ScatterLine\ScatterLine.csproj", "{A862E1BF-0B14-4CC4-8490-A6649C3586FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScatterLine.Web", "ScatterLine.Web\ScatterLine.Web.csproj", "{6DA00DFE-D480-4C2B-BAC2-42AD1F128A0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A862E1BF-0B14-4CC4-8490-A6649C3586FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A862E1BF-0B14-4CC4-8490-A6649C3586FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A862E1BF-0B14-4CC4-8490-A6649C3586FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A862E1BF-0B14-4CC4-8490-A6649C3586FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DA00DFE-D480-4C2B-BAC2-42AD1F128A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA00DFE-D480-4C2B-BAC2-42AD1F128A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA00DFE-D480-4C2B-BAC2-42AD1F128A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA00DFE-D480-4C2B-BAC2-42AD1F128A0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
