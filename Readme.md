@@ -4,6 +4,9 @@
 * [MainPage.xaml](./CS/ScatterLine/MainPage.xaml) (VB: [MainPage.xaml](./VB/ScatterLine/MainPage.xaml))
 <!-- default file list end -->
 # How to create a 2D  Scatter Line chart
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3701)**
+<!-- run online end -->
 
 
 <p>The following example demonstrates how to create a 2D Scatter Line chart.</p><br />
